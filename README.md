@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ansh Mehta</h1>
-<h3 align="center">Pre-final year student at VIT Bhopal, passionate about Cybersecurity & Web Technologiesut Web</h3>
+<h3 align="center">Pre-final year student at VIT Bhopal, passionate about Cybersecurity & Web Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh-h-mehta&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-h-mehta" /> </p>
 
