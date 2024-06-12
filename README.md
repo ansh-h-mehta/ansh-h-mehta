@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" height="120px" />
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Ansh Mehta</h1>
 <h3 align="center">Pre-final year student at VIT Bhopal, passionate about Cybersecurity & Web Technology</h3>
