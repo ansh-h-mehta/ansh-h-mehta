@@ -1,10 +1,8 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" height="120px" />
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" height="120px" align="left" />
 
 <h1 align="center">Hi 👋, I'm Ansh Mehta</h1>
 <h3 align="center">Pre-final year student at VIT Bhopal, passionate about Cybersecurity & Web Technology</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh-h-mehta&theme=onestar" alt="ansh-h-mehta" /></a> </p>
-
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,11 +25,12 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
 
 <p> </p>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="30%" align="right"/>
 <h3 align="left">GSSoC'24</h3>
 
 <img src = "https://camo.githubusercontent.com/4734ef6484c77611cc3123a91915b0ccc7b42b3982525a3d021c25eac2e8d25d/68747470733a2f2f6773736f632e6769726c7363726970742e746563682f6261646765732f312e706e673f696d77696474683d3936" width="130" height="130"/>
 </p>
-
+<br> </br>
 
 <h3 align="center">Statistics</h3>
 <div align="center">
@@ -50,11 +49,10 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ansh-h-mehta&theme=react-dark"/>
 
 
-
 <h3 align="left">Stars</h3>
-
 <!-- <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ansh-h-mehta&show_icons=true&locale=en&theme=tokyonight" alt="ansh-h-mehta" /></p> -->
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-h-mehta&theme=tokyonight" alt="ansh-h-mehta" />
+<img src ="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="30%" align ="right"/> <!-- .png laptop and cup -->
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-h-mehta&langs_count=8&theme=tokyonight" alt=ansh-h-mehta />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
