@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" height="120px" align="left" />
 
 <h1 align="center">Hi 👋, I'm Ansh Mehta</h1>
-<h3 align="center">Pre-final year student at VIT Bhopal, passionate about Cybersecurity & Web Technology</h3>
+<h3 align="center">Pre-final year student at VIT Bhopal,Certified Ethical Hacker & passionate about Web Technology</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh-h-mehta&theme=onestar" alt="ansh-h-mehta" /></a> </p>
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anshhmehta49" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="anshhmehta49" height="30" width="50" /></a><a href="https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/ansh-mehta-023a2721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/ansh-mehta-023a2721b/" height="30" width="50" /></a><a href="https://www.leetcode.com/https://leetcode.com/u/ansh-h-mehta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="https://leetcode.com/u/ansh-h-mehta/" height="30" width="50" /></a></p>
+<a href="https://twitter.com/anshhmehta49" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="anshhmehta49" height="30" width="50" /></a><a href="https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/ansh-mehta-023a2721b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/ansh-mehta-023a2721b/" height="30" width="50" /></a><a href="https://www.leetcode.com/https://leetcode.com/u/ansh-h-mehta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="https://leetcode.com/u/ansh-h-mehta/" height="30" width="50" /></a></p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -26,9 +26,10 @@
 
 <p> </p>
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="30%" align="right"/>
-<h3 align="left">GSSoC'24</h3>
+<h3 align="left">Badges & Certificates</h3>
 
-<img src = "https://camo.githubusercontent.com/4734ef6484c77611cc3123a91915b0ccc7b42b3982525a3d021c25eac2e8d25d/68747470733a2f2f6773736f632e6769726c7363726970742e746563682f6261646765732f312e706e673f696d77696474683d3936" width="130" height="130"/>
+<img src = "https://camo.githubusercontent.com/4734ef6484c77611cc3123a91915b0ccc7b42b3982525a3d021c25eac2e8d25d/68747470733a2f2f6773736f632e6769726c7363726970742e746563682f6261646765732f312e706e673f696d77696474683d3936" width="180" height="180" padding:20px/> <img src=https://github.com/user-attachments/assets/dcae4fb7-6c89-4586-a789-a6f31a12524e width="200" height="160" style="display: inline-block;"/> <img src = https://github.com/user-attachments/assets/d2786836-5ec0-4864-9fd2-57d316864d55 width="200" height="160"/>
+
 </p>
 <br> </br>
 
