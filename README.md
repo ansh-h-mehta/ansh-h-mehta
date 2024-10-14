@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" height="120px" align="left" />
 
-<h1 align="center">Hi 👋, I'm Ansh Mehta</h1>
-<h3 align="center">Pre-final year student at VIT Bhopal,Certified Ethical Hacker & passionate about Web Technology</h3>
+<h1 align="center">Hi 👋, I'm Ansh H Mehta</h1>
+<h3 align="center">final year student at VIT Bhopal,Certified Ethical Hacker & passionate about Web Technology</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansh-h-mehta&theme=onestar" alt="ansh-h-mehta" /></a> </p>
 
 </div><h3 align="left">Connect with me:</h3>
